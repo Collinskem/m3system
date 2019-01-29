@@ -1,0 +1,22 @@
+{
+  "name": "m3sacco",
+  "version": "1.0.0",
+  "description": "matatu sacco system with node js and mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collinskem/m3system.git"
+  },
+  "keywords": [
+    "m3"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Collinskem/m3system/issues"
+  },
+  "homepage": "https://github.com/Collinskem/m3system#readme"
+}
